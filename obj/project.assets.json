@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\EUL1363\\Repos\\test-aspnet\\test-aspnet.csproj",
-      "projectName": "test-aspnet",
-      "projectPath": "D:\\Users\\EUL1363\\Repos\\test-aspnet\\test-aspnet.csproj",
+      "projectUniqueName": "D:\\Users\\EUL1363\\Repos\\test2-aspnet\\test2-aspnet.csproj",
+      "projectName": "test2-aspnet",
+      "projectPath": "D:\\Users\\EUL1363\\Repos\\test2-aspnet\\test2-aspnet.csproj",
       "packagesPath": "D:\\Users\\EUL1363\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\EUL1363\\Repos\\test-aspnet\\obj\\",
+      "outputPath": "D:\\Users\\EUL1363\\Repos\\test2-aspnet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
